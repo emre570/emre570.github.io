@@ -42,7 +42,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 189, 93, 56;
+  --bs-primary-rgb: 51, 153, 255;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -6658,7 +6658,7 @@ textarea.form-control-lg {
 
 .text-bg-primary {
   color: #000 !important;
-  background-color: RGBA(189, 93, 56, var(--bs-bg-opacity, 1)) !important;
+  background-color: RGBA(51, 153, 255, var(--bs-bg-opacity, 1)) !important;
 }
 
 .text-bg-secondary {
@@ -10937,7 +10937,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #3399ff;
 }
 
 .dev-icons {
